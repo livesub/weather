@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.DS_Store
+
+backend/.env
+backend/.git.backup/
+frontend/.env
+frontend/.env.local
